@@ -1,21 +1,26 @@
-# Impacta Aula 02 CLC-08
+# Porftólio Pedro Lacerda
 
-Repositório da prática de _conceitos básicos_ de versionamento de código (**Git e GitHub**)
+👋 Meu nome é Pedro Lacerda e estou fazendo o curso de Cloud Computing na Faculdade Impacta
 
-## Subtítulo
+## Meus interesses
 
-- Item 1
-- Item 2
-- Item 3
+- SRE
+- DevSecOps
+- Observabilidade
 
-### Seção
+## Minhas habilidades
 
-1. Primeiro item
-1. Segundo item
-1. Terceiro item
+1. Jenkins
+2. GitHub Actions
+3. Java
+4. Javascript
+5. Shell
+6. MySQL
+7. Linux Server
 
-#### Sub-seção
+## Meus hobbies
 
-- [ ] Check 1
-- [ ] Check 2
-- [ ] Check 3
+- Ver TV 📺
+- Ler 📚
+- Cinema 🎥
+- Jogar futebol ⚽
