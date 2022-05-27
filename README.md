@@ -23,5 +23,5 @@
 - Ver TV 📺
 - Ler 📚
 - Cinema 🎥
-- Palmeiras não tem mundial 🌲
-- Vai Corinthians ⚽
+- Netflix
+- CS GO
