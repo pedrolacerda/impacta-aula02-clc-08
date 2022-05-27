@@ -16,11 +16,12 @@
 4. Javascript
 5. Shell
 6. MySQL
-7. Linux Server
+7. Aula do pedrão de GitHub
 
 ## Meus hobbies
 
 - Ver TV 📺
 - Ler 📚
 - Cinema 🎥
-- Jogar futebol ⚽
+- Palmeiras não tem mundial 🌲
+- Vai Corinthians ⚽
