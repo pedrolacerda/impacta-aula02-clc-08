@@ -1,3 +1,7 @@
 let text = 'Hello world'
 
-console.log(text)
+printText(text)
+
+function printText(textToPrint){
+  console.log(textToPrint)
+}
